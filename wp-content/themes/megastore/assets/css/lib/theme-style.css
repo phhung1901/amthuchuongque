@@ -248,7 +248,7 @@
 	border-radius: 90%;
 	margin-top: 2px;
 	margin-right: 2px;
-	background: #5a88ca url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/cart-icon.png') no-repeat center center;
+	background: #5a88ca url('/wp-content/themes/megastore/assets/css/images/cart-icon.png') no-repeat center center;
 }
 .block-wrap-cart .block-mini-cart{
 	position: absolute;
@@ -547,7 +547,7 @@
 }
 .block-category .nav-tab>li>a{
 	border-top: 1px solid #eaeaea;
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/bg-tab.png') repeat-x 0 -1px;
+	background: url('/wp-content/themes/megastore/assets/css/images/bg-tab.png') repeat-x 0 -1px;
 	height: 28px;
 	float: left;
 	padding: 0 15px;
@@ -1532,7 +1532,7 @@
 .block-hot-deals2 .nav-tab li{
 	list-style: none;
 	height: 40px;
-	background:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/hotdeal-icon.png") no-repeat left center;
+	background:url("/wp-content/themes/megastore/assets/css/images/hotdeal-icon.png") no-repeat left center;
 	padding-left: 65px;
 	line-height: 40px;
 	margin-bottom: 30px;
@@ -1563,7 +1563,7 @@
 }
 .block-hot-deals2 .nav-tab li.active,
 .block-hot-deals2 .nav-tab li:hover{
-	background:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/hotdeal-icon-active.png") no-repeat left center;
+	background:url("/wp-content/themes/megastore/assets/css/images/hotdeal-icon-active.png") no-repeat left center;
 }
 .block-hot-deals2 .nav-tab li.active a,
 .block-hot-deals2 .nav-tab li:hover a{
@@ -1811,7 +1811,7 @@
 	width: 30px;
 	text-indent: -9999em;
 	height: 100%;
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/bg-breadcrumbs.png') no-repeat 0 0;
+	background: url('/wp-content/themes/megastore/assets/css/images/bg-breadcrumbs.png') no-repeat 0 0;
 	padding: 12px 5px;
 }
 
@@ -1914,7 +1914,7 @@
   float: left;
   cursor: pointer;
   text-indent: -9999px;
-  background: url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/grid-view-bg.png") 0 0 #666;
+  background: url("/wp-content/themes/megastore/assets/css/images/grid-view-bg.png") 0 0 #666;
 }
 .display-product-option li.view-as-list span {
   width: 30px;
@@ -1923,7 +1923,7 @@
   float: left;
   cursor: pointer;
   text-indent: -9999px;
-  background: url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/list-view-bg.png") 0 0 #666;
+  background: url("/wp-content/themes/megastore/assets/css/images/list-view-bg.png") 0 0 #666;
 }
 .display-product-option li.selected span, 
 .display-product-option li:hover span {
@@ -2038,7 +2038,7 @@
 .block-filter-top .list-color li>a:before{
 	width: 5px;
 	height: 5px;
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/arow.png') no-repeat;
+	background: url('/wp-content/themes/megastore/assets/css/images/arow.png') no-repeat;
 	display: block;
 	content: '';
 	position: absolute;
@@ -2133,7 +2133,7 @@
 	height: 13px;
 	width: 13px;
 	content: '';
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/plus-square.png') no-repeat;
+	background: url('/wp-content/themes/megastore/assets/css/images/plus-square.png') no-repeat;
 	display: inline-block;
 	float: right;
 	content: '';
@@ -2144,14 +2144,14 @@
 }
 
 .block-list-category>ul>li:hover:after{
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/plus-square-hover.png') no-repeat;
+	background: url('/wp-content/themes/megastore/assets/css/images/plus-square-hover.png') no-repeat;
 }
 .block-list-category>ul>li.active:after{
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/minus.png') no-repeat;
+	background: url('/wp-content/themes/megastore/assets/css/images/minus.png') no-repeat;
 	top: 15px;
 }
 .block-list-category>ul>li.active:hover:after{
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/minus-hover.png') no-repeat;
+	background: url('/wp-content/themes/megastore/assets/css/images/minus-hover.png') no-repeat;
 }
 
 .block-list-category>ul>li>ul>li>a:before{
@@ -2199,13 +2199,13 @@
       width:15px;
       height:15px;
       margin-right: 10px;
-      background: url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/checkbox.png") no-repeat;
+      background: url("/wp-content/themes/megastore/assets/css/images/checkbox.png") no-repeat;
       padding: 0;
       border: none;
       margin-bottom: -2px;
 }
 .check-box-list input[type="checkbox"]:checked + label span.button{
-    background: #5a88ca url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/checked.png") no-repeat center center;
+    background: #5a88ca url("/wp-content/themes/megastore/assets/css/images/checked.png") no-repeat center center;
 }
 .check-box-list input[type="checkbox"]:checked + label{
   	color: #5a88ca;
@@ -2221,7 +2221,7 @@
 .check-box-list.corlor label:before{
 	width: 5px;
 	height: 5px;
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/arow.png') no-repeat;
+	background: url('/wp-content/themes/megastore/assets/css/images/arow.png') no-repeat;
 	display: block;
 	content: '';
 	position: absolute;
@@ -2355,7 +2355,7 @@
 .block-product-info .variations-box .list-check-box li>a:before{
 	width: 5px;
 	height: 5px;
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/arow.png') no-repeat;
+	background: url('/wp-content/themes/megastore/assets/css/images/arow.png') no-repeat;
 	content: '';
 	position: absolute;
 	top: -7px;
@@ -2389,20 +2389,20 @@
 	background-color: #f8f8f8;
 }
 .box-qty .quantity-minus{
-	background-image: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/minus.png');
+	background-image: url('/wp-content/themes/megastore/assets/css/images/minus.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 }
 .box-qty .quantity-minus:hover{
-	background-image: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/minus-hover.png');
+	background-image: url('/wp-content/themes/megastore/assets/css/images/minus-hover.png');
 }
 .box-qty .quantity-plus{
-	background-image: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/plus-square.png');
+	background-image: url('/wp-content/themes/megastore/assets/css/images/plus-square.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 }
 .box-qty .quantity-plus:hover{
-	background-image: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/plus-square-hover.png');
+	background-image: url('/wp-content/themes/megastore/assets/css/images/plus-square-hover.png');
 }
 .box-qty input.quantity{
 	border: 1px solid #eaeaea;
@@ -2424,24 +2424,24 @@
 .block-product-info .box-control-button .link-wishlist{
 	width: 19px;
 	height: 34px;
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/wishlist-icon.png') no-repeat left center;
+	background: url('/wp-content/themes/megastore/assets/css/images/wishlist-icon.png') no-repeat left center;
 	font-size: 0px;
 	float: left;
 	margin-right: 25px;
 }
 .block-product-info .box-control-button .link-wishlist:hover{
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/wishlist-icon.png') no-repeat right;
+	background: url('/wp-content/themes/megastore/assets/css/images/wishlist-icon.png') no-repeat right;
 }
 .block-product-info .box-control-button .link-compare {
   width: 17px;
   height: 34px;
-  background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/compare-icon.png') no-repeat left center;
+  background: url('/wp-content/themes/megastore/assets/css/images/compare-icon.png') no-repeat left center;
   font-size: 0px;
   float: left;
   margin-right: 25px;
 }
 .block-product-info .box-control-button .link-compare:hover{
-	 background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/compare-icon.png') no-repeat right;
+	 background: url('/wp-content/themes/megastore/assets/css/images/compare-icon.png') no-repeat right;
 }
 .block-product-info .box-control-button .link-sendmail{
 	width: 17px;
@@ -3161,7 +3161,7 @@
     
 }
 .cart_summary .action a{
-  background: url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/delete_icon.png") no-repeat center center;
+  background: url("/wp-content/themes/megastore/assets/css/images/delete_icon.png") no-repeat center center;
   font-size: 0;
   height: 9px;
   width: 9px;
@@ -3976,7 +3976,7 @@
     float: left;
     width: 33px;
     height: 33px;
-    background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/h3-deals.png') no-repeat;
+    background: url('/wp-content/themes/megastore/assets/css/images/h3-deals.png') no-repeat;
     -webkit-animation: mymove infinite;
     -webkit-animation-duration: 0.3s;
     animation: mymove infinite;
@@ -4644,7 +4644,7 @@
 }
 .option4 .main-header .shop-menu>.icon{
 	width: 28px;
-	background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/bar-icon.png') no-repeat top center;
+	background: url('/wp-content/themes/megastore/assets/css/images/bar-icon.png') no-repeat top center;
 	padding-top: 16px;
 	font-size: 12px;
 	color: #999999;
@@ -4918,7 +4918,7 @@
     float: left;
     width: 33px;
     height: 33px;
-    background: url('/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/h3-deals.png') no-repeat;
+    background: url('/wp-content/themes/megastore/assets/css/images/h3-deals.png') no-repeat;
     -webkit-animation: mymove infinite;
     -webkit-animation-duration: 0.3s;
     animation: mymove infinite;
@@ -5410,11 +5410,11 @@
 ***********************************************************/
 /*Begin Top Header*/
 .top-header5 {
-    background: rgba(0, 0, 0, 0) url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/data/option5/ad-top.png") no-repeat scroll center top;
+    background: rgba(0, 0, 0, 0) url("/wp-content/themes/megastore/assets/data/option5/ad-top.png") no-repeat scroll center top;
     height: 125px;
 }
 .top-header8 {
-    background: rgba(0, 0, 0, 0) url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/data/option8/ad-top.png") no-repeat scroll center top;
+    background: rgba(0, 0, 0, 0) url("/wp-content/themes/megastore/assets/data/option8/ad-top.png") no-repeat scroll center top;
 }
 .inner-header5 {
     padding-top: 28px;
@@ -5696,13 +5696,13 @@
     margin: 0 -10px;
 } */
 .product-rate {
-    background: transparent url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/rate-bg.png") repeat-x scroll left top;
+    background: transparent url("/wp-content/themes/megastore/assets/css/images/rate-bg.png") repeat-x scroll left top;
     height: 13px;
     margin-top: 16px;
     width: 70px;
 }
 .inner-rate{
-	background:transparent url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/rate-star.png") repeat-x left top;
+	background:transparent url("/wp-content/themes/megastore/assets/css/images/rate-star.png") repeat-x left top;
 	height:13px;
 }
 
@@ -5873,7 +5873,7 @@
     min-height: 320px;
     padding-left: 145px;
     padding-top: 100px;
-	background-image: url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/bg-email.png");
+	background-image: url("/wp-content/themes/megastore/assets/css/images/bg-email.png");
 	background-repeat:no-repeat;
 	background-position:0 100px;
 }
@@ -6242,11 +6242,11 @@
 	margin-bottom:28px;
 }
 .option7 .kt-owl-carousel .owl-prev{
-	background-image: url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/prev-hover.png");
+	background-image: url("/wp-content/themes/megastore/assets/css/images/prev-hover.png");
 	background-position: 6px center;
 }
 .option7 .kt-owl-carousel .owl-next{
-	background-image: url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/next-hover.png");
+	background-image: url("/wp-content/themes/megastore/assets/css/images/next-hover.png");
 }
 .option7 .kt-owl-carousel .owl-prev,
 .option7 .kt-owl-carousel .owl-next{
@@ -6438,17 +6438,17 @@
 	-webkit-transition:all 0.3s ease-out 0s;
 }
 .option5 .product-extra-link a.addcart-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/cart-icon2.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/cart-icon2.png");
 	width:14px;
 	height:13px;
 }
 .option5 .product-extra-link a.wishlist-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/wishlist-icon2.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/wishlist-icon2.png");
 	width:19px;
 	height:17px;
 }
 .option5 .product-extra-link a.compare-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/compare-icon2.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/compare-icon2.png");
 	width:17px;
 	height:18px;
 }
@@ -7113,7 +7113,7 @@
 .item-product6 .product-thumb .quickview-link{
 	width:40px;
 	height:40px;
-	background:#f25f43 url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/eye-icon.png") no-repeat scroll center center;
+	background:#f25f43 url("/wp-content/themes/megastore/assets/css/images/eye-icon.png") no-repeat scroll center center;
 	border-radius:50%;
 }
 .item-product6 .product-thumb .quickview-link{
@@ -7146,12 +7146,12 @@
 .item-product6 .product-extra-link a.addcart-link{
 	width:60px;
 	height:60px;
-	background:#f0cc50 url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/cart-icon3.png") no-repeat scroll center center;
+	background:#f0cc50 url("/wp-content/themes/megastore/assets/css/images/cart-icon3.png") no-repeat scroll center center;
 }
 .item-product6 .product-extra-link a.wishlist-link{
 	width:40px;
 	height:40px;
-	background:#f25f43 url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/wishlist-icon3.png") no-repeat scroll center center;
+	background:#f25f43 url("/wp-content/themes/megastore/assets/css/images/wishlist-icon3.png") no-repeat scroll center center;
 }
 .item-product6 .product-extra-link a.wishlist-link:hover{
 	transform:rotate(45deg);
@@ -7160,7 +7160,7 @@
 .item-product6 .product-extra-link a.compare-link{
 	width:40px;
 	height:40px;
-	background:#666666 url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/compare-icon3.png") no-repeat scroll center center;
+	background:#666666 url("/wp-content/themes/megastore/assets/css/images/compare-icon3.png") no-repeat scroll center center;
 }
 .item-product6 .product-extra-link a.compare-link:hover{
 	transform:rotate(45deg);
@@ -7281,14 +7281,14 @@
 	background-color:#f25f43;
 }
 .kt-owl-carousel.kt-owl-option6 .owl-prev {
-    background: #f2d03b url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/prev2.png") no-repeat scroll center center;
+    background: #f2d03b url("/wp-content/themes/megastore/assets/css/images/prev2.png") no-repeat scroll center center;
     border: medium none;
     border-radius: 50%;
     height: 36px;
     width: 36px;
 }
 .kt-owl-carousel.kt-owl-option6 .owl-next {
-    background: #f2d03b url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/next2.png") no-repeat scroll center center;
+    background: #f2d03b url("/wp-content/themes/megastore/assets/css/images/next2.png") no-repeat scroll center center;
     border: medium none;
     border-radius: 50%;
     height: 36px;
@@ -7886,22 +7886,22 @@
 	-webkit-transition:all 0.3s ease-out 0s;
 }
 .option8 .product-extra-link a.addcart-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/cart-icon2.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/cart-icon2.png");
 	width:14px;
 	height:13px;
 }
 .option8 .product-extra-link a.wishlist-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/wishlist-icon2.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/wishlist-icon2.png");
 	width:19px;
 	height:17px;
 }
 .option8 .product-extra-link a.compare-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/compare-icon2.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/compare-icon2.png");
 	width:17px;
 	height:18px;
 }
 .option8 .product-extra-link a.quickview-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/search-icon.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/search-icon.png");
 	width:19px;
 	height:19px;
 }
@@ -8335,17 +8335,17 @@
 	-webkit-transition:all 0.3s ease-out 0s;
 }
 .option9 .product-extra-link a.addcart-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/cart-icon2.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/cart-icon2.png");
 	width:14px;
 	height:13px;
 }
 .option9 .product-extra-link a.wishlist-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/wishlist-icon2.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/wishlist-icon2.png");
 	width:19px;
 	height:17px;
 }
 .option9 .product-extra-link a.compare-link::after{
-	background-image:url("/web/20230722121307im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/compare-icon2.png");
+	background-image:url("/wp-content/themes/megastore/assets/css/images/compare-icon2.png");
 	width:17px;
 	height:18px;
 }

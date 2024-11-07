@@ -34,11 +34,11 @@
 
 .selectBox-dropdown .selectBox-arrow{
     border: none;
-    background: url(/web/20230722120927im_/https://amthuchuongque.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png) center right no-repeat;
+    background: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png) center right no-repeat;
 }
 
 .selectBox-dropdown.selectBox-menuShowing .selectBox-arrow{
-    background: url(/web/20230722120927im_/https://amthuchuongque.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png) center left no-repeat;
+    background: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png) center left no-repeat;
 }
 
 .selectBox-dropdown-menu{
@@ -377,12 +377,12 @@ div.product .woocommerce-price-and-add .single_add_to_wishlist.button {
 }
 
 .yith-wcwl-share li a:hover { background-position: left bottom; }
-.yith-wcwl-share li a.facebook { background-image: url(/web/20230722120927im_/https://amthuchuongque.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/facebook.png ); }
-.yith-wcwl-share li a.twitter { background-image: url(/web/20230722120927im_/https://amthuchuongque.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/twitter.png ); }
-.yith-wcwl-share li a.pinterest { background-image: url(/web/20230722120927im_/https://amthuchuongque.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/pinterest.jpg ); }
-.yith-wcwl-share li a.googleplus { background-image: url(/web/20230722120927im_/https://amthuchuongque.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/googleplus.jpg ); }
-.yith-wcwl-share li a.email { background-image: url(/web/20230722120927im_/https://amthuchuongque.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/email.jpg ); }
-.yith-wcwl-share li a.whatsapp{ background-image: url(/web/20230722120927im_/https://amthuchuongque.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/whatsapp.png); }
+.yith-wcwl-share li a.facebook { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/facebook.png ); }
+.yith-wcwl-share li a.twitter { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/twitter.png ); }
+.yith-wcwl-share li a.pinterest { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/pinterest.jpg ); }
+.yith-wcwl-share li a.googleplus { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/googleplus.jpg ); }
+.yith-wcwl-share li a.email { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/email.jpg ); }
+.yith-wcwl-share li a.whatsapp{ background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/whatsapp.png); }
 
 .copy-trigger {
     cursor: pointer;

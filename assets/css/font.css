@@ -1,11 +1,11 @@
-@import url('https://web.archive.org/web/20211216091232cs_/https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
-@import url('https://web.archive.org/web/20211216091232cs_/https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap');
-@import url('https://web.archive.org/web/20211216091232cs_/https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,300&display=swap');
-@import url('https://web.archive.org/web/20211216091232cs_/https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
 @font-face {
 	font-family: 'UTMAzuki';
-	src: url('/web/20211216091232im_/http://amthuchuongque.com/assets/fonts/UTMAzuki/UTMAzuki.eot');
-	src: local('☺'), url('/web/20211216091232im_/http://amthuchuongque.com/assets/fonts/UTMAzuki/UTMAzuki.woff') format('woff'), url('/web/20211216091232im_/http://amthuchuongque.com/assets/fonts/UTMAzuki/UTMAzuki.ttf') format('truetype'), url('/web/20211216091232im_/http://amthuchuongque.com/assets/fonts/UTMAzuki/UTMAzuki.svg') format('svg');
+	src: url('/assets/fonts/UTMAzuki/UTMAzuki.eot');
+	src: local('☺'), url('/assets/fonts/UTMAzuki/UTMAzuki.woff') format('woff'), url('/assets/fonts/UTMAzuki/UTMAzuki.ttf') format('truetype'), url('/assets/fonts/UTMAzuki/UTMAzuki.svg') format('svg');
 	font-weight: normal;
 	font-style: normal
 }

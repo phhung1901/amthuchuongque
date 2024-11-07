@@ -172,7 +172,7 @@ span.svgright-style3:before {
     padding: 10px !important;
 }
 .products .product-status .sale{
-    background: url(/web/20230722132801im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/bgsale.png) no-repeat;
+    background: url(/wp-content/themes/megastore/assets/css/images/bgsale.png) no-repeat;
     width: 45px;
     height: 35px;
     background-size: 100% 100%;
@@ -898,7 +898,7 @@ h4.xemthem-style11 a {
     padding-bottom: 30px;
     padding-left: 30px;
     background-color: rgb(20, 39, 70);
-    background-image: url(/web/20230722132801im_/https://amthuchuongque.com/wp-content/themes/megastore/assets/css/images/pattern-2.png);
+    background-image: url(/wp-content/themes/megastore/assets/css/images/pattern-2.png);
     background-position-x: left;
     background-position-y: bottom;
     background-repeat-x: no-repeat;
